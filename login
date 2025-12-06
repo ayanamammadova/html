@@ -436,7 +436,7 @@
 <div class="container">
     <div class="success-message" id="successMessage">
         <i class="fas fa-check-circle"></i>
-        <h2>Account Created Successfully!</h2>
+        <h2>TESTING CHANGES IRADA!</h2>
         <p>You're being redirected to the login page</p>
     </div>
 
